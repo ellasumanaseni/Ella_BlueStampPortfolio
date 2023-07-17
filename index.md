@@ -48,11 +48,19 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For my first milestone, I got my raspberry pi set up and working. I did not have a monitor to use to set up my raspberry pi, so my instructors recommended I set it up headless, meaning I set up the raspberry pi without any monitor, keyboard, or mouse. To set it up headless, I first had to install the Raspberry Pi OS (32-bit) into my Raspberry Pi’s SN Card. I had to enable SSH, Secure Shell, a service that runs on Pi that allows for secure remote connection. I then inserted the SN Card into my Raspberry Pi, connected the Pi to power and my Pi was up and running!
+
+To connect my laptop to the Pi, I used PuTTY, a free software used for remote command-line access to Linux, which Raspberry Pi OS is. Going forward, everytime I want to connect to my Raspberry Pi, I must SSH in through PuTTY.
+
+A challenge I faced was that my VS Code would repeatedly freeze. So, I chose to code my Raspberry Pi through a VNC Viewer, which would allow me to see the desktop of the Raspberry Pi on my laptop and then code directly on my Raspberry Pi. VNC stands  for virtual network connection.
+
+I downloaded the RealVNCViewer and connected it to my Raspberry Pi on my local network.
+At this point, I could see two programming apps on the Raspberry Pi’s desktop, which were Geany Programmer’s Editor and Thonny. I opened Thonny and ran the python command, print(“Hello World”) as a test, and it successfully printed to the terminal. 
+
+For the last step of my first milestone, I took a test picture with the Raspberry Pi camera module. To do so, I first connected the camera to the Raspberry Pi’s camera port. Then, I ran the command on PuTTY “libcamera-still -o test.jpg” , which means I am taking a still photo and saving it on my Raspberry Pi as test.jpg. My instructor provided the picamera2 library, which I cloned onto my Raspberry Pi. I ran a couple of its files through the VNC, some that took videos and some that took different types of photos, to learn how picamera2 worked! 
+
+To complete my project, I will need to connect all the hardware and get the code into my Raspberry Pi.
+
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
