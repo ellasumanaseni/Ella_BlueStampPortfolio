@@ -46,7 +46,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdgOZ_EXeZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For my first milestone, I got my raspberry pi set up and working. I did not have a monitor to use to set up my raspberry pi, so my instructors recommended I set it up headless, meaning I set up the raspberry pi without any monitor, keyboard, or mouse. To set it up headless, I first had to install the Raspberry Pi OS (32-bit) into my Raspberry Pi’s SN Card. I had to enable SSH, Secure Shell, a service that runs on Pi that allows for secure remote connection. I then inserted the SN Card into my Raspberry Pi, connected the Pi to power and my Pi was up and running!
 
