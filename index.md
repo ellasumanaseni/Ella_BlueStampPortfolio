@@ -38,7 +38,7 @@ To create the cardboard extender, I cut out a strip on the side of my box and in
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDDOoI8y8cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My second milestone was setting up hardware and importing the document-reader code. 
 In the tutorial, the base of the document reader is an 8x8 wooden box, which holds the Raspberry Pi and speaker and acts as a surface for the documents to lie on. I used cardboard instead, as I had a bunch of boxes at home. I cut two squares out of cardboard out of a box and bent down the edges to create a new, smaller, 8x8 box. Then, I added a hole to the bottom half for my Raspberry Pi’s power cable to go into. 
