@@ -1,5 +1,5 @@
 # Rasberry Pi Document Reader for the Visually Impaired
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+My Raspberry Pi Document Reader allows those visually impaired, or those who just want don't want to read, to have a document read outloud for them! My biggest challenge was getting my Raspberry Pi Computer set up without a monitor and figuring out which questions to ask. I learned how to use a Raspberry Pi computer, brushed up on my circuit building skills, and practiced refactoring code!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
