@@ -21,10 +21,14 @@ My Raspberry Pi Document Reader allows those visually impaired, or those who jus
 
 <div>
   <div class="column">
-    <img src="headshot.jpg">
+    <img src="headshot.jpg"   
+      width: auto,
+      height: 200 px
   </div>
   <div class="column">
-    <img src="final proj.jpg">
+    <img src="final proj.jpg"
+      width: auto,
+      height: 200 px>
   </div>
 </div>
 
