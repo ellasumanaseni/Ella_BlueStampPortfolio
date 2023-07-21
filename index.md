@@ -10,9 +10,7 @@ My Raspberry Pi Document Reader allows those visually impaired, or those who jus
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YINk5Lrie3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My third milestone was recreating my LED and button circuits using alligator clips and refiguring the command line commands in the document reader code into PiCamera2 function calls. 
 Initially, I used a breadboard, inside my cardboard box, to connect my LED and button to the raspberry pi. So, every time I ran my document reader, I had to open the box to press the button. Instead, I wanted my button and LED to poke out through the top of my cardboard box, so that users would be able to easily press the button and see the LED flash on and off. 
