@@ -60,7 +60,7 @@ To complete my project, I will need to connect all the hardware and get the code
 
 
 # Schematics 
-![Schematic](schematic.jpg)
+![Schematic](schematic.png)
 
 # Code
     # PiTextReader - Raspberry Pi Printed Text-to-Speech Reader
