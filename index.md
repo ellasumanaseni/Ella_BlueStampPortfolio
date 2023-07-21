@@ -22,19 +22,16 @@ My Raspberry Pi Document Reader allows those visually impaired, or those who jus
 <div>
   <div class="column">
     <img src="headshot.jpg"   
-      width: auto,
+      width: 200 px,
       height: 200 px
   </div>
   <div class="column">
     <img src="final proj.jpg"
-      width: auto,
+      width: 200 px,
       height: 200 px>
   </div>
 </div>
-
-![Headshot](headshot.jpg)
-![Final Project Image](final proj.jpg)
-
+  
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
