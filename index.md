@@ -10,14 +10,15 @@ My Raspberry Pi Document Reader allows those visually impaired, or those who jus
 
 <div>
   <div class="column">
-    ![Headshot](headshot.jpg)
+    <img src="headshot.jpg">
   </div>
   <div class="column">
-    ![Final Project Image](final proj.jpg)
+    <img src="final proj.jpg">
   </div>
 </div>
 
-
+![Headshot](headshot.jpg)
+![Final Project Image](final proj.jpg)
 
 # Final Milestone
 
