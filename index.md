@@ -8,6 +8,17 @@ My Raspberry Pi Document Reader allows those visually impaired, or those who jus
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+</style>
+</head>
+<body>
+
 <div>
   <div class="column">
     <img src="headshot.jpg">
