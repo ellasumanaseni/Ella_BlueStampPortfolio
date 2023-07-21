@@ -8,19 +8,7 @@ My Raspberry Pi Document Reader allows those visually impaired, or those who jus
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-
-<div>
-  <div class="column">
-    <img src="headshot.jpg"   
-      width: 200 px,
-      height: 200 px
-  </div>
-  <div class="column">
-    <img src="final proj.jpg"
-      width: 200 px,
-      height: 200 px>
-  </div>
-</div>
+![Project Picture](/final proj.png)
   
 # Final Milestone
 
