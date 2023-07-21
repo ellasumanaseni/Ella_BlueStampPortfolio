@@ -1,11 +1,5 @@
-# Rasberry Pi Document Reader for the Visually Impaired
+# Document Reader for the Visually Impaired
 My Raspberry Pi Document Reader allows those visually impaired, or those who just want don't want to read, to have a document read outloud for them! My biggest challenge was getting my Raspberry Pi Computer set up without a monitor and figuring out which questions to ask. I learned how to use a Raspberry Pi computer, brushed up on my circuit building skills, and practiced refactoring code!
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
