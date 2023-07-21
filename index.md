@@ -299,11 +299,3 @@ Don't forget to place the link of where to buy each component inside the quotati
 | USB Speaker for Notebook & PC | The USB Speaker will be used to play the read aloud document | $12.99 | <a href="https://www.amazon.com/HONKYOB-Speaker-Computer-Multimedia-Notebook/dp/B075M7FHM1/ref=sr_1_1_sspa?crid=28PHC6Z01OPVB&keywords=honkyob+usb+mini+speaker&qid=1688586576&s=electronics&sprefix=honkyob%2Celectronics%2C131&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> HONKYOB USB Mini Speaker Computer Speaker Powered Stereo Multimedia Speaker for Notebook Laptop PC(Black) </a> |
 | Momentary Button |The button is used to turn the document reader on and off | $16.99 |<a href="https://www.amazon.com/BOJACK-Electronics-Potentiometer-tie-Points-Breadboard/dp/B099MQV8ZW"> Bojack Electronics Fun Kit <a>|
 | LED Light | The LED light shows whether the document reader is on or off -- comes in the same kit as the button |$16.99 |<a href="https://www.amazon.com/BOJACK-Electronics-Potentiometer-tie-Points-Breadboard/dp/B099MQV8ZW"> Bojack Electronics Fun Kit <a>|
-
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
