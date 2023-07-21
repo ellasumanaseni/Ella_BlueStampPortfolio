@@ -59,7 +59,7 @@ To complete my project, I will need to connect all the hardware and get the code
 
 
 
-# Schematics 
+# Schematic
 ![Schematic](schematic.png)
 
 # Code
